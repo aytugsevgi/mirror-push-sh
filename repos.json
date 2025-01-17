@@ -1,0 +1,7 @@
+{
+    "repos":
+    {
+        "git@gitlab.example.com:path/project.git": "git@gitlab.example2.com:path/project.git",
+        "git@gitlab.example.com:path2/project2.git": "git@gitlab.example2.com:path/project2.git",
+    }
+}
